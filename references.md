@@ -1,3 +1,2 @@
-# References
-
-* octocat 1 😈
+- reference for work 1: phone number and email
+- reference for work 2: phone number and email
